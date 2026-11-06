@@ -1,5 +1,4 @@
 #cmd to run this: python -m unittest discover -s C:\coding-stuff\SaaS\jenkins
-#test
 import unittest
 import simple
 
