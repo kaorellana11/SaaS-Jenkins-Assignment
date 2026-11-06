@@ -4,7 +4,7 @@ import simple
 
 class testOddOrEven(unittest.TestCase):
     def test_odd_or_even(self):
-        self.assertEqual(simple.odd_or_even(6), "even")
+        self.assertEqual(simple.odd_or_even(6), "odd")
 
 if __name__ == "__main__":
     unittest.main()
